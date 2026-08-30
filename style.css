@@ -21,6 +21,12 @@ h1 {
   color: #57606a;
 }
 
+.status {
+  min-height: 1.5em;
+  margin: 0 0 16px;
+  color: #57606a;
+}
+
 #events-list {
   list-style: none;
   padding: 0;
@@ -39,9 +45,10 @@ h1 {
 .event-header {
   display: flex;
   justify-content: space-between;
-  gap: 16px;
   align-items: center;
+  gap: 16px;
   margin-bottom: 8px;
+  flex-wrap: wrap;
 }
 
 .repo-name {
