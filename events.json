@@ -1,0 +1,22 @@
+[
+  {
+    "repo": "octocat/Hello-World",
+    "date": "2026-08-12",
+    "description": "A simple hello world example for GitHub."
+  },
+  {
+    "repo": "microsoft/vscode",
+    "date": "2026-08-16",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications."
+  },
+  {
+    "repo": "nodejs/node",
+    "date": "2026-08-22",
+    "description": "Node.js JavaScript runtime built on Chrome's V8 engine."
+  },
+  {
+    "repo": "github/docs",
+    "date": "2026-08-28",
+    "description": "The open-source documentation for GitHub."
+  }
+]
